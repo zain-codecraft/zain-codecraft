@@ -1,6 +1,6 @@
 # 💫 About Me:
 Software Engineer Specializing in the Web with expertise in Mern Stack, Focused on building responsive, and scalable web applications. 
-
+Thanks to Rana Sami Ul Haq for giving me this Code
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/zainahmed188) 
