@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Muhammad Rafay 👋</h1>
+<h1 align="center">Hi there, I'm Muhammad Zain Ahmed 👋</h1>
 <h3 align="center">A FullStack Developer building high-scalability reliable systems. </h3>
 
 <p align="center">
@@ -71,4 +71,4 @@ Here are some of the technologies I'm proficient in:
 
 </p>
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rafay-15/Rafay-15/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/zain-codecraft/zain-codecraft/output/snake.svg" alt="Snake animation" />
