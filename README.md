@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Muhammad Zain Ahmed 👋</h1>
+<h1 align="center">Hi there, I'm Zain Ahmed 👋</h1>
 <h3 align="center">A FullStack Developer building high-scalability reliable systems. </h3>
 
 <p align="center">
